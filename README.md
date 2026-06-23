@@ -16,3 +16,6 @@
  <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
            
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IgorLobato1/IgorLobato1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
+</p>
